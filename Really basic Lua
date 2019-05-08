@@ -1,0 +1,21 @@
+--This is a comment
+
+--You can put a longer comment like this!:
+--[[
+     Hello World!
+--]]
+--This will teach you alot of basics with roblox lua
+--Print <-- the most easy task
+print('Hello World!')
+
+
+--Wait
+--This will tell the script to wait!
+wait(number here)
+--If you want to loop a script do this:
+while true do
+--Make sure it has wait(NUM) here
+wait(2)
+--Your script here!
+print('Hello World')
+end
